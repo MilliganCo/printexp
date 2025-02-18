@@ -1,0 +1,24 @@
+<PrintStatistic>
+<StatisticData>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>PET</MaterialName>
+<StartPrintTime>2022-11-28 12:20:26</StartPrintTime>
+<EndPrintTime>2022-11-28 12:21:55</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.20</PrintLength>
+<PrintArea Unit="m x m">0.04</PrintArea>
+<TimeCost Unit="s">89.000000</TimeCost>
+<InkCost>593.575752 1663.612655</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">67.845885 207.951582</InkCost>
+<InkCost inkName="C" inkID="1">94.885100 207.951582</InkCost>
+<InkCost inkName="M" inkID="2">80.884661 207.951582</InkCost>
+<InkCost inkName="Y" inkID="3">82.925888 207.951582</InkCost>
+<InkCost inkName="W" inkID="4">267.034219 831.806328</InkCost>
+</InkUsage>
+</DataItem>
+</StatisticData>
+</PrintStatistic>

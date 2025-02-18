@@ -1,0 +1,104 @@
+<PrintStatistic>
+<StatisticData>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>PET</MaterialName>
+<StartPrintTime>2022-11-28 12:28:12</StartPrintTime>
+<EndPrintTime>2022-11-28 12:29:16</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.20</PrintLength>
+<PrintArea Unit="m x m">0.04</PrintArea>
+<TimeCost Unit="s">64.000000</TimeCost>
+<InkCost>593.575752 1723.293252</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">67.845885 215.411657</InkCost>
+<InkCost inkName="C" inkID="1">94.885100 215.411657</InkCost>
+<InkCost inkName="M" inkID="2">80.884661 215.411657</InkCost>
+<InkCost inkName="Y" inkID="3">82.925888 215.411657</InkCost>
+<InkCost inkName="W" inkID="4">267.034219 861.646626</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>校准</TaskName>
+<MaterialName/>
+<StartPrintTime>2022-11-28 12:29:19</StartPrintTime>
+<EndPrintTime>2022-11-28 12:29:21</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.30</PrintWidth>
+<PrintLength Unit="m">0.02</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 1139.631834</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 142.453979</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 142.453979</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 142.453979</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 142.453979</InkCost>
+<InkCost inkName="W" inkID="4">0.000000 569.815917</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>PET</MaterialName>
+<StartPrintTime>2022-11-28 12:30:03</StartPrintTime>
+<EndPrintTime>2022-11-28 12:30:17</EndPrintTime>
+<PrintStatus>3</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.00</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">14.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="4">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>美女图_720X1200.prn</TaskName>
+<MaterialName>PET</MaterialName>
+<StartPrintTime>2022-11-28 14:39:07</StartPrintTime>
+<EndPrintTime>2022-11-28 14:39:28</EndPrintTime>
+<PrintStatus>1</PrintStatus>
+<PrintDoneCopys>1</PrintDoneCopys>
+<PrintWidth Unit="m">0.17</PrintWidth>
+<PrintLength Unit="m">0.25</PrintLength>
+<PrintArea Unit="m x m">0.04</PrintArea>
+<TimeCost Unit="s">21.000000</TimeCost>
+<InkCost>39875079.057565 175798755.105955</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">3285556.765855 21974844.388244</InkCost>
+<InkCost inkName="C" inkID="1">7787017.694582 21974844.388244</InkCost>
+<InkCost inkName="M" inkID="2">2199003.102986 21974844.388244</InkCost>
+<InkCost inkName="Y" inkID="3">6154399.345195 21974844.388244</InkCost>
+<InkCost inkName="W" inkID="4">20449102.148946 87899377.552978</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>PET</MaterialName>
+<StartPrintTime>2022-11-28 14:39:41</StartPrintTime>
+<EndPrintTime>2022-11-28 14:46:15</EndPrintTime>
+<PrintStatus>2</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.18</PrintLength>
+<PrintArea Unit="m x m">0.04</PrintArea>
+<TimeCost Unit="s">394.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="W" inkID="4">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+</StatisticData>
+</PrintStatistic>

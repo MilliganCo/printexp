@@ -1,0 +1,60 @@
+<PrintStatistic>
+<StatisticData>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>Default</MaterialName>
+<StartPrintTime>2022-11-03 09:47:28</StartPrintTime>
+<EndPrintTime>2022-11-03 09:47:28</EndPrintTime>
+<PrintStatus>3</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.00</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LK" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="LY" inkID="7">0.000000 0.000000</InkCost>
+<InkCost inkName="Lc" inkID="8">0.000000 0.000000</InkCost>
+<InkCost inkName="Lm" inkID="9">0.000000 0.000000</InkCost>
+<InkCost inkName="Fm" inkID="10">0.000000 0.000000</InkCost>
+<InkCost inkName="Fy" inkID="11">0.000000 0.000000</InkCost>
+<InkCost inkName="LLK" inkID="12">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+<DataItem>
+<TaskName>360x1200.prn</TaskName>
+<MaterialName>Default</MaterialName>
+<StartPrintTime>2022-11-03 09:47:46</StartPrintTime>
+<EndPrintTime>2022-11-03 09:47:46</EndPrintTime>
+<PrintStatus>3</PrintStatus>
+<PrintDoneCopys>0</PrintDoneCopys>
+<PrintWidth Unit="m">0.20</PrintWidth>
+<PrintLength Unit="m">0.00</PrintLength>
+<PrintArea Unit="m x m">0.00</PrintArea>
+<TimeCost Unit="s">0.000000</TimeCost>
+<InkCost>0.000000 0.000000</InkCost>
+<InkUsage Unit="ml">
+<InkCost inkName="K" inkID="0">0.000000 0.000000</InkCost>
+<InkCost inkName="C" inkID="1">0.000000 0.000000</InkCost>
+<InkCost inkName="M" inkID="2">0.000000 0.000000</InkCost>
+<InkCost inkName="Y" inkID="3">0.000000 0.000000</InkCost>
+<InkCost inkName="LK" inkID="4">0.000000 0.000000</InkCost>
+<InkCost inkName="LC" inkID="5">0.000000 0.000000</InkCost>
+<InkCost inkName="LM" inkID="6">0.000000 0.000000</InkCost>
+<InkCost inkName="LY" inkID="7">0.000000 0.000000</InkCost>
+<InkCost inkName="Lc" inkID="8">0.000000 0.000000</InkCost>
+<InkCost inkName="Lm" inkID="9">0.000000 0.000000</InkCost>
+<InkCost inkName="Fm" inkID="10">0.000000 0.000000</InkCost>
+<InkCost inkName="Fy" inkID="11">0.000000 0.000000</InkCost>
+<InkCost inkName="LLK" inkID="12">0.000000 0.000000</InkCost>
+</InkUsage>
+</DataItem>
+</StatisticData>
+</PrintStatistic>
